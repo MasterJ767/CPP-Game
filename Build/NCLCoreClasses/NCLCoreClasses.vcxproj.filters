@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Assets.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\SimpleFont.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\TextureLoader.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\TextureWriter.cpp">
+      <Filter>Asset Handling</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Maths.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Matrix2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Matrix3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Matrix4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Plane.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Quaternion.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Vector2.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Vector3.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Vector4.cpp">
+      <Filter>Maths</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\MeshAnimation.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\MeshGeometry.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\MeshMaterial.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\RendererBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\ShaderBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\TextureBase.cpp">
+      <Filter>Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\GameTimer.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Keyboard.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Mouse.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Window.cpp">
+      <Filter>Windowing and Input</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Win32Keyboard.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Win32Mouse.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\CSC8503\Project\NCLCoreClasses\Win32Window.cpp">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Assets.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\SimpleFont.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\TextureLoader.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\TextureWriter.h">
+      <Filter>Asset Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Maths.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Matrix2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Matrix3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Matrix4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Plane.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Quaternion.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Vector2.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Vector3.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Vector4.h">
+      <Filter>Maths</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\MeshAnimation.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\MeshGeometry.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\MeshMaterial.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\RendererBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\ShaderBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\TextureBase.h">
+      <Filter>Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\GameTimer.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Keyboard.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Mouse.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Window.h">
+      <Filter>Windowing and Input</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Win32Keyboard.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Win32Mouse.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\CSC8503\Project\NCLCoreClasses\Win32Window.h">
+      <Filter>Windowing and Input\Win32</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="H:\CSC8503\Project\NCLCoreClasses\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Asset Handling">
+      <UniqueIdentifier>{371B4FEB-0078-3AC6-B8A5-0910646E99FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{650C969E-CC33-312E-9132-9534218DF743}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Maths">
+      <UniqueIdentifier>{262E4AA1-97E2-3577-9AAD-868C5A7E0C52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rendering">
+      <UniqueIdentifier>{BF290469-70F0-33B1-AB95-ABB345655746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A6EEEB90-1877-38DE-9932-ABD6BB4A34CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input">
+      <UniqueIdentifier>{B84B2F63-B824-34BF-ADFE-F5D884D97DFE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Windowing and Input\Win32">
+      <UniqueIdentifier>{38B3344F-52E9-33BF-825E-38D023376DE2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
